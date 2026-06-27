@@ -1,4 +1,4 @@
-// MARK: - BodyDetailView.swift
+// MARK: - BodyDetailView.swift.
 import SwiftUI
 
 struct BodyDetailView: View {

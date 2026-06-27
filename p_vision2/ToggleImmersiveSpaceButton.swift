@@ -1,4 +1,4 @@
-// MARK: - ToggleImmersiveSpaceButton.swift
+// MARK: - ToggleImmersiveSpaceButton.swift.
 // Body Health Spatial System
 // Replace the contents of the default "ToggleImmersiveSpaceButton.swift" with this file.
 //

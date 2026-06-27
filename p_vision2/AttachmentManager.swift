@@ -1,4 +1,4 @@
-// MARK: - AttachmentManager.swift
+// MARK: - AttachmentManager.swift.
 
 import RealityKit
 

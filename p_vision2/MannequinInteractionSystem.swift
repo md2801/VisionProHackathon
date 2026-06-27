@@ -1,4 +1,4 @@
-// MARK: - MannequinInteractionSystem.swift
+// MARK: - MannequinInteractionSystem.swift.
 // Body Health Spatial System
 // ADD this as a new Swift file to the p_vision2 target.
 //

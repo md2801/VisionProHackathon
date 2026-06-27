@@ -1,4 +1,4 @@
-// MARK: - AppModel.swift
+// MARK: - AppModel.swift.
 import SwiftUI
 import RealityKit
 import Combine

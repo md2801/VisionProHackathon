@@ -4,7 +4,7 @@
 //
 // Floating spatial panel displaying AI-generated health suggestions.
 // Cards animate in one-by-one with a spring stagger effect.
-// AIEngine (mock) lives at the bottom of this file.
+// AIEngine (mock) lives at the bottom of this file..
 
 import SwiftUI
 

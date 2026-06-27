@@ -8,6 +8,19 @@
 		<true/>
 		<key>UISceneConfigurations</key>
 		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneClassName</key>
+					<string></string>
+					<key>UISceneDelegateClassName</key>
+					<string></string>
+					<key>UISceneConfigurationName</key>
+					<string></string>
+					<key>UISceneStoryboardFile</key>
+					<string></string>
+				</dict>
+			</array>
 			<key>UISceneSessionRoleImmersiveSpaceApplication</key>
 			<array>
 				<dict>

@@ -1,4 +1,4 @@
-// MARK: - ImmersiveView.swift
+// MARK: - ImmersiveView.swift.
 import SwiftUI
 import RealityKit
 
